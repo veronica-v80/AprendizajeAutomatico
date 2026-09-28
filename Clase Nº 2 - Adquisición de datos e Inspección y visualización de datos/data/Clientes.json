@@ -1,0 +1,38 @@
+[
+  {
+    "id_cliente": 101,
+    "nombre": "Ana",
+    "ciudad": "Ushuaia",
+    "edad": 35
+  },
+  {
+    "id_cliente": 102,
+    "nombre": "Carlos",
+    "ciudad": "Río Grande",
+    "edad": 42
+  },
+  {
+    "id_cliente": 103,
+    "nombre": "Laura",
+    "ciudad": "Ushuaia",
+    "edad": 29
+  },
+  {
+    "id_cliente": 104,
+    "nombre": "Martín",
+    "ciudad": "Tolhuin",
+    "edad": 38
+  },
+  {
+    "id_cliente": 105,
+    "nombre": "Sofía",
+    "ciudad": "Ushuaia",
+    "edad": 31
+  },
+  {
+    "id_cliente": 106,
+    "nombre": "Diego",
+    "ciudad": "Río Grande",
+    "edad": 45
+  }
+]
